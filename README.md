@@ -1,2 +1,3 @@
-# docs-driverworks-proxyprotocol-fan
- Fan proxy SDK documentation
+# Driverworks Proxy/Protocol Guide - fan
+
+Fan proxy SDK documentation
